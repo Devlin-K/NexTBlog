@@ -1,9 +1,9 @@
 #  <font color="#5D478B" face="Comic Sans MS"><center>TemplateRepositoryJFD</center></font>
-###  A Template Repository For Devlin.
+###  NexTBlog Repository For Devlin.
 
-#### This project's Aim:
+#### This project's Aim: Personal Blog Can Be Fancy? More?
 
-#### This project's Tech:
+#### This project's Tech: Hexo,NexT,LeanCloud,Js.
 
 <br>
 <br>
