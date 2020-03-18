@@ -1,4 +1,4 @@
-#  <font color="#5D478B" face="Comic Sans MS"><center>TemplateRepositoryJFD</center></font>
+#  <font color="#5D478B" face="Comic Sans MS"><center>NexTBlogRepositoryJFD</center></font>
 ###  NexTBlog Repository For Devlin.
 
 #### This project's Aim: Personal Blog Can Be Fancy? More?
