@@ -7,6 +7,9 @@ catalog: true
 categories: 
  - uncategories
 tags: {{tags}}
-comments : false
+comments : true
+keywords: 
+ - blog
+password: 
 
 ---

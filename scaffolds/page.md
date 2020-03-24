@@ -5,7 +5,7 @@ update: {{ date }}
 description : {{ description }}
 catalog: true
 categories: {{categories}}
-type: {{}}
+type: 
 comments : false
 
 ---

@@ -1,22 +1,16 @@
 ---
-title: {Markdown Details File}  
+title: How To Write Markdown File.
 catalog: true
-categories: Blog need to do
+categories: 
+ - markdown
+ - study
 
 permalink : 
-
-date: need to do
-updated: need to do
-description : Pretty Simple Template Blog.  <!-- need to do -->
-
-header-img: "flatlay-373076.jpg"
-
-tags: need to do
- 
-
-abstract: Just A Template...
-
-comments : false
+description : How To Write Markdown File. 
+tags: 
+ - markdown
+ - study
+comments : true
 
 ---
 
