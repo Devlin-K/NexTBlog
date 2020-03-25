@@ -240,3 +240,10 @@ neat_js:
     compress:
       exclude:
         - '*.min.js'
+
+
+# 自动生成sitemap
+sitemap: 
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml

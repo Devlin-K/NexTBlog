@@ -2,7 +2,6 @@
 title: How To Write Markdown File.
 catalog: true
 categories: 
- - markdown
  - study
 
 permalink : 
