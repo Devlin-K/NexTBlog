@@ -95,8 +95,10 @@ theme: next
 # 发布部署地址设置
 deploy:
   type: git
-  repository: https://github.com/Devlin-K/Devlin-K.github.io.git
+  # repository: https://github.com/Devlin-K/Devlin-K.github.io.git
+  repository: ssh://root@18.177.224.154:9009/var/code/Blog/Devlin-K.github.io
   branch: master
+  message: BlogV6.5
 
 
 # 博客搜索功能配置
@@ -104,7 +106,7 @@ search:
   path: search.xml
   field: post
   format: html
-  limit: 10000
+  limit: 100
 
 
 # Progress bar in the top during page loading.
