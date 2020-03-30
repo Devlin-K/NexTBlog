@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://localhost:9002/ #http://18.177.224.154/
+url: http://18.177.224.154/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -249,3 +249,7 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+Plugins:
+- hexo-generator-baidu-sitemap
+- hexo-generator-sitemap
