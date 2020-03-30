@@ -96,9 +96,9 @@ theme: next
 deploy:
   type: git
   # repository: https://github.com/Devlin-K/Devlin-K.github.io.git
-  repository: ssh://root@18.177.224.154:9009/var/code/Blog/Devlin-K.github.io
+  repository: https://github.com/Devlin-K/Devlin-K.github.io.git
   branch: master
-  message: BlogV6.5
+  message: BlogV6.5 change deploy url fix backpic update 2 archives
 
 
 # 博客搜索功能配置
