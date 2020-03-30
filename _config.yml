@@ -96,7 +96,7 @@ theme: next
 deploy:
   type: git
   #repository: https://github.com/Devlin-K/Devlin-K.github.io.git
-  repository: ssh://root@18.177.224.154:9009/var/code/Blog/repo/bloghook.git
+  repository: ssh://git@18.177.224.154:9009/var/code/Blog/repo/bloghook.git
   branch: master
   message: BlogV6.5 change deploy url fix backpic update 2 archives
 
